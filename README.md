@@ -25,7 +25,7 @@ In this demo, we'll showcase how to configure and use CSRF protection in a Sprin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/spring-security-csrf-demo.git
+git clone https://github.com/iammahesh123/spring-security-CSRF-demo.git
 ```
 2. Navigate to the project directory:
  ```bash
